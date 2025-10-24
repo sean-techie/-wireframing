@@ -90,17 +90,17 @@ Wireframing is a key step in the software development process because it helps t
 
 # Real-World Scenario:
 
-During the development of a healthcare appointment booking app, the design team created a wireframe to map out the user flow. Early testing with the wireframe revealed that users struggled to locate the “Reschedule Appointment” option, which was buried under multiple menus. This potential usability issue was flagged before any coding began.
+•During the development of a healthcare appointment booking app, the design team created a wireframe to map out the user flow. Early testing with the wireframe revealed that users struggled to locate the “Reschedule Appointment” option, which was buried under multiple menus. This potential usability issue was flagged before any coding began.
 
 Resolution:
 
-The team revised the wireframe to place the “Reschedule Appointment” button prominently on the main dashboard. Additional visual cues and a clear icon were added to guide users. This change was validated through another round of wireframe testing, ensuring that users could easily navigate the process.
+•The team revised the wireframe to place the “Reschedule Appointment” button prominently on the main dashboard. Additional visual cues and a clear icon were added to guide users. This change was validated through another round of wireframe testing, ensuring that users could easily navigate the process.
 
 Impact on the Final Product:
 
-By addressing the issue at the wireframing stage, the development team avoided costly redesigns later. The final app provided a smoother, more intuitive user experience, leading to higher user satisfaction and reduced support requests.
+•By addressing the issue at the wireframing stage, the development team avoided costly redesigns later. The final app provided a smoother, more intuitive user experience, leading to higher user satisfaction and reduced support requests.
 
 Conclusion:
 
-Wireframing plays a critical role in identifying usability issues early, allowing designers and developers to make informed changes before coding. This ensures the final product is user-friendly, efficient, and aligned with user needs.
+•Wireframing plays a critical role in identifying usability issues early, allowing designers and developers to make informed changes before coding. This ensures the final product is user-friendly, efficient, and aligned with user needs.
 
