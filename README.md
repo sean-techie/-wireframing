@@ -64,11 +64,11 @@ High-Fidelity Wireframes: More detailed and refined versions, often closer to th
 
 •Real images, icons, and visual elements are used
  
-• Typography, spacing, and UI components look polished and realistic
+•Typography, spacing, and UI components look polished and realistic
  
-• Screens look very close to what the final app would look like
+•Screens look very close to what the final app would look like
  
-• Includes interactive elements such as buttons, forms, and navigation tabs
+•Includes interactive elements such as buttons, forms, and navigation tabs
 
 # Wirefarames tools 
 
@@ -80,4 +80,11 @@ High-Fidelity Wireframes: More detailed and refined versions, often closer to th
 | **Adobe XD** | Low-Fi & High-Fi Wireframes      | User-friendly design and prototyping tool with animation and sharing features.         |
 | **Miro**     | Low-Fi & Ideation                | Collaborative whiteboard for mapping ideas, flows, and simple wireframes.              |
 | **Axure RP** | High-Fi & Interactive Prototypes | Advanced tool for detailed wireframes with logic, conditions, and interactions.        |
+
+
+# Benefits of Wireframing in Software Development
+
+Wireframing is a key step in the software development process because it helps teams visualize and validate a product’s layout, user flow, and functionality before development begins.
+
+•Wireframes guide the design process by providing a visual outline of a system’s layout and user flow before development starts. Low-fi wireframes help teams agree on structure and navigation early, while high-fi wireframes show a realistic version of the final UI for review and refinement. They also improve communication by giving designers, developers, and stakeholders a shared reference, reducing misunderstandings and making feedback clearer. For example, low-fi sketches align teams on screen flow, and high-fi Figma designs help stakeholders and developers agree on the final look and functionality before coding.
 
