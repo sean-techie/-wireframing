@@ -69,3 +69,15 @@ High-Fidelity Wireframes: More detailed and refined versions, often closer to th
 • Screens look very close to what the final app would look like
  
 • Includes interactive elements such as buttons, forms, and navigation tabs
+
+# Wirefarames tools 
+
+| Tool         | Best For                         | Description                                                                            |
+| ------------ | -------------------------------- | -------------------------------------------------------------------------------------- |
+| **Figma**    | Low-Fi & High-Fi Wireframes      | Cloud-based tool ideal for UI/UX design, prototyping, and collaboration.               |
+| **Balsamiq** | Low-Fi Wireframes                | Simple, sketch-style wireframes; great for quick early-stage design and brainstorming. |
+| **Sketch**   | High-Fi Wireframes (Mac)         | Vector-based design tool widely used for UI design on macOS.                           |
+| **Adobe XD** | Low-Fi & High-Fi Wireframes      | User-friendly design and prototyping tool with animation and sharing features.         |
+| **Miro**     | Low-Fi & Ideation                | Collaborative whiteboard for mapping ideas, flows, and simple wireframes.              |
+| **Axure RP** | High-Fi & Interactive Prototypes | Advanced tool for detailed wireframes with logic, conditions, and interactions.        |
+
