@@ -44,3 +44,28 @@ By stripping away visual design elements, wireframes allow designers to concentr
 •Content Placement: Indicates where text, images, and other content will be positioned.
 
 •Functionality: Outlines key functionalities and interactions.
+
+# Types of Wireframes
+
+Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+# When Low-Fi Wireframes Are Used
+
+•Low-fi wireframes are used in the early stages of the design process.
+
+# When Low-Fi Wireframes Are Used
+
+ Low-fi wireframes are used in the early stages of the design process.
+
+- Project Airbnb is a High-Fidelity Wireframe because the following are already applied:
+
+•Full color and branding are applied
+
+•Real images, icons, and visual elements are used
+ 
+• Typography, spacing, and UI components look polished and realistic
+ 
+• Screens look very close to what the final app would look like
+ 
+• Includes interactive elements such as buttons, forms, and navigation tabs
